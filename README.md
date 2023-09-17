@@ -19,5 +19,5 @@ Meu nome é Paulo Henrique, e sou um entusiasta apaixonado por computadores e te
 
 ## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/paulohreis1/)
+- LinkedIn: [paulohreis1](https://www.linkedin.com/in/paulohreis1/)
 - Email: hreispaulo1@gmail.com
