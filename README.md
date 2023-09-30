@@ -8,14 +8,8 @@ Meu nome é Paulo Henrique, e sou um entusiasta apaixonado por computadores e te
 - 💼 Meu objetivo é construir uma carreira sólida na área de desenvolvimento de software.
 
 ## Habilidades
-
-- JavaScript
-- Node.js
-- Ruby
-- Rails
-- SQL
-- PostgreSQL
-- Git
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,rails,postgresql,sqlite,python,c,git)](https://skillicons.dev)
+- HTML, CSS, JavaScript, Node.js, Ruby, Rails, SQL, PostgreSQL, SQLite, Python, C, Git
 
 ## Contato
 
