@@ -4,8 +4,7 @@ Meu nome é Paulo Henrique, e sou um entusiasta apaixonado por computadores e te
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente, estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web, com ênfase no backend.
-- 💼 Meu objetivo é construir uma carreira sólida na área de desenvolvimento de software.
+- 💼 Atualmente, estou focado construindo uma carreira sólida na área de desenvolvimento de software.
 
 ## Habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,ruby,rails,postgresql,sqlite,python,c,git,docker,vue)](https://skillicons.dev)
