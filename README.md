@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Paulo Henrique. Sou desenvolvedor de software e gosto de entender como as coisas funcionam por baixo — do protocolo HTTP ao plano de execução de uma query.
+Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fiscais e financeiros, onde um bug vira prejuízo para o cliente, e levo IA para dentro do produto com assistentes que consultam e operam um ERP. Gosto de ir até o fundo, do plano de execução de uma query a algoritmos de otimização. Se você tem um problema assim, [vamos conversar](https://www.linkedin.com/in/paulohreis1/).
 
 ## Sobre mim
 
