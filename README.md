@@ -1,12 +1,12 @@
 # Olá! 👋
 
-Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fiscais e financeiros, onde um bug vira prejuízo para o cliente, e levo IA para dentro do produto com assistentes que consultam e operam um ERP. Gosto de ir até o fundo, do plano de execução de uma query a algoritmos de otimização. Se você tem um problema assim, [vamos conversar](https://www.linkedin.com/in/paulohreis1/).
+Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fiscais e financeiros, onde um bug vira prejuízo para o cliente, e levo IA para dentro do produto com assistentes que consultam e operam um ERP. Gosto de ir até o fundo, do plano de execução de uma query a algoritmos de otimização.
 
 ## Sobre mim
 
-- Trabalho principalmente com Ruby on Rails nos domínios fiscal (NF-e e Reforma Tributária), comércio exterior e financeiro, além de infraestrutura e CI.
-- Uso IA nas duas pontas: no produto, com sugestão de classificação tributária e análise de risco de documentos de importação que combina regras determinísticas com LLM; e no dia a dia, com agentes de código (Claude Code) para implementar, revisar e automatizar tarefas.
-- Estudando o problema de flow shop e algoritmos de otimização combinatória: modelos de programação inteira (Gurobi), branch and bound, força bruta e heurísticas sobre as instâncias de Taillard, com objetivos de makespan, soma dos tempos de conclusão, atraso máximo e atraso total.
+- Domínios: fiscal (NF-e e Reforma Tributária), comércio exterior, financeiro e infraestrutura/CI.
+- IA: sugestão de classificação tributária e análise de risco de documentos de importação com regras determinísticas + LLM; agentes de código (Claude Code) no dia a dia.
+- Estudando: flow shop com programação inteira (Gurobi), branch and bound e heurísticas nas instâncias de Taillard.
 
 ## Projetos em destaque
 
