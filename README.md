@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fiscais e financeiros, onde um bug vira prejuízo para o cliente, e levo IA para dentro do produto com assistentes que consultam e operam um ERP. Gosto de ir até o fundo, do plano de execução de uma query a algoritmos de otimização.
+Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fiscais e financeiros, onde um bug vira prejuízo para o cliente, e levo IA para dentro do produto com servidores MCP que deixam assistentes consultar e operar um ERP. Gosto de ir até o fundo, do plano de execução de uma query a algoritmos de otimização.
 
 ## Sobre mim
 
