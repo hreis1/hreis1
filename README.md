@@ -14,7 +14,6 @@ Meu nome é Paulo Henrique. Sou desenvolvedor de software e gosto de entender co
 - [**bef**](https://github.com/hreis1/bef): servidor web síncrono em Ruby puro (`TCPServer` + `pg`) para a Rinha de Backend 2024/Q1. Uma instrução SQL por request, statements preparados, 1,5 CPU e 550 MB no total.
 - [**blog**](https://github.com/hreis1/blog): app de publicação de posts em Rails com PostgreSQL, Redis e Sidekiq.
 - [**rate_limit**](https://github.com/hreis1/rate_limit): API Sinatra com limitação de taxa no Nginx, orquestrada com Docker Compose.
-- [**codecrafters-http-server-ruby**](https://github.com/hreis1/codecrafters-http-server-ruby): servidor HTTP do zero em Ruby (desafio CodeCrafters).
 
 ## Habilidades
 
