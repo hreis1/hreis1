@@ -4,9 +4,8 @@ Meu nome é Paulo Henrique. Sou desenvolvedor de software e gosto de entender co
 
 ## Sobre mim
 
-- 💼 Desenvolvedor de um ERP para empresas brasileiras. Trabalho principalmente com Ruby on Rails nos domínios fiscal (NF-e e Reforma Tributária), comércio exterior e financeiro, além de infraestrutura e CI.
-- 🤖 Uso IA nas duas pontas: no produto, com sugestão de classificação tributária e análise de risco de documentos de importação que combina regras determinísticas com LLM; e no dia a dia, com agentes de código (Claude Code) para implementar, revisar e automatizar tarefas — sempre com revisão humana e testes.
-- 🔍 Revisar código faz parte do meu dia tanto quanto escrever.
+- Trabalho principalmente com Ruby on Rails nos domínios fiscal (NF-e e Reforma Tributária), comércio exterior e financeiro, além de infraestrutura e CI.
+- 🤖 Uso IA nas duas pontas: no produto, com sugestão de classificação tributária e análise de risco de documentos de importação que combina regras determinísticas com LLM; e no dia a dia, com agentes de código (Claude Code) para implementar, revisar e automatizar tarefas.
 - 🌱 Estudando Elixir e performance de backend.
 
 ## Projetos em destaque
