@@ -5,7 +5,7 @@ Sou Paulo Henrique, desenvolvedor backend Ruby on Rails. Construo sistemas fisca
 ## Sobre mim
 
 - Domínios: fiscal (NF-e e Reforma Tributária), comércio exterior, financeiro (integração com bancos: boleto, Pix, extrato e conciliação) e infraestrutura/CI.
-- IA: sugestão de classificação tributária e análise de risco de documentos de importação com regras determinísticas + LLM; agentes de código (Claude Code) no dia a dia.
+- IA: sugestão de classificação tributária e análise de risco de documentos de importação com regras determinísticas + LLM; agentes de código no dia a dia.
 - Estudando: flow shop com programação inteira (Gurobi), branch and bound e heurísticas nas instâncias de Taillard.
 
 ## Projetos em destaque
